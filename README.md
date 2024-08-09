@@ -6,7 +6,7 @@
 ![Static Badge](https://img.shields.io/badge/matplotlib-%23135F9B?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/seaborn-%23444876?style=for-the-badge)
 
-![img](imagens/cover.jpg)
+![img](img/cover.jpg)
 
 O objetivo do projeto é analisar os dados financeiros do McDonald's para avaliar o desempenho da empresa em termos de capitalização de mercado, receita, lucro, e outros indicadores financeiros ao longo do tempo. O projeto visa entender a saúde financeira da empresa e identificar tendências, padrões e áreas de melhoria, com foco nos seguintes aspectos:
 
@@ -79,44 +79,44 @@ Os dados contêm as seguintes colunas:
 **Análise de Tendências**
 - A tendência da capitalização de mercado parece estar a aumentar ao longo dos anos, o que sugere um sentimento positivo dos investidores e perspectivas de crescimento. As receitas e os lucros revelaram uma tendência global crescente ao longo dos anos, com algumas flutuações. Isto indica que a empresa tem sido capaz de aumentar as suas receitas e resultados ao longo do tempo.
 
-![img](imagens/1.png)
+![img](img/1.png)
 
 ---
 
 **Análise de Correlação**
 
-![img](imagens/2.png)
+![img](img/2.png)
 
 ---
 
 **Comparação de Métricas de Desempenho**
-![img](imagens/3.png)
+![img](img/3.png)
 
 ---
 
 **Análise de Ratios**
 - P/E Ratio , P/S Ratio e P/B Ratio: P/E Ratio (Índice Preço/Lucro) apresenta flutuações ao longo dos anos, mas geralmente permanece dentro de um intervalo razoável. P/S Ratio (Índice Preço/Vendas) também apresenta flutuações, mas mostra uma tendência relativamente estável. P/B Ratio (Índice Preço/Valor Patrimonial) Apresenta alguns valores negativos, indicando potenciais problemas com o cálculo do valor contabilístico.
 
-![img](imagens/4.png)
+![img](img/4.png)
 
 ---
 
 **Visualização das receitas, os ganhos e o dinheiro em caixa ao longo dos anos**
 - As disponibilidades registam algumas flutuações, mas, em geral, seguem uma tendência crescente ao longo dos anos. Este facto sugere que a empresa tem sido capaz de manter ou melhorar a sua posição de liquidez.
 
-![img](imagens/5.png)
+![img](img/5.png)
 
 ---
 
 **Gráfico de barras comparando o rendimento dos dividentos em diferentes anos**
 
-![img](imagens/6.png)
+![img](img/6.png)
 
 ---
 
 **Gráfico de dispersão que mostra a relação entre o P/E ratio e EPS**
 
-![img](imagens/7.png)
+![img](img/7.png)
 
 ---
 
@@ -130,13 +130,13 @@ Os dados contêm as seguintes colunas:
 
 - Fluxo de caixa livre (FCF): O FCF representa o dinheiro que uma empresa é capaz de gerar depois de ter desembolsado o dinheiro necessário para manter ou expandir a sua base de activos. É calculado como o fluxo de caixa operacional menos as despesas de capital.
 
-![img](imagens/8.png)
+![img](img/8.png)
 
 ---
 
 **Projeção do ROE ao longo dos anos**
 
-![img](imagens/9.png)
+![img](img/9.png)
 
 ---
 
@@ -144,7 +144,7 @@ Os dados contêm as seguintes colunas:
 
 - Embora o conjunto de dados revele tendências positivas em termos de capitalização de mercado, receitas e lucros, existem flutuações e desafios em termos de rendibilidade, margem operacional e níveis de endividamento merecem uma análise mais aprofundada.
 
-![img](imagens/10.png)
+![img](img/10.png)
 
 ---
 
@@ -152,7 +152,7 @@ Os dados contêm as seguintes colunas:
 
 - Ao longo dos anos analisados, o McDonald's demonstrou um crescimento consistente em sua capitalização de mercado e em seus lucros. Mesmo diante de flutuações econômicas, a empresa manteve uma trajetória ascendente, indicando resiliência e forte presença no mercado
 
-![img](imagens/11.png)
+![img](img/11.png)
 
 ---
 
@@ -160,7 +160,7 @@ Os dados contêm as seguintes colunas:
 
 - A margem operacional e o lucro por ação (EPS) apresentaram uma correlação positiva com o lucro líquido. Isso sugere que o McDonald's conseguiu manter uma boa eficiência operacional, convertendo suas operações em lucros consistentes para os acionistas.
 
-![img](imagens/12.png)
+![img](img/12.png)
 
 ---
 
@@ -168,7 +168,7 @@ Os dados contêm as seguintes colunas:
 
 - O índice P/E variou ao longo dos anos, sugerindo diferentes expectativas do mercado quanto ao crescimento futuro do McDonald's. Picos no P/E podem indicar que o mercado esperava um crescimento significativo, mas também podem refletir uma possível sobrevalorização da empresa em determinados períodos.
 
-![img](imagens/13.png)
+![img](img/13.png)
 
 ---
 
@@ -176,7 +176,7 @@ Os dados contêm as seguintes colunas:
 
 - A relação entre dívida e ativos totais permaneceu relativamente estável ao longo dos anos, indicando uma alavancagem financeira controlada. Isso sugere que o McDonald's tem gerido sua estrutura de capital de forma prudente, embora o aumento gradual da dívida mereça atenção contínua.
 
-![img](imagens/14.png)
+![img](img/14.png)
 
 ---
 
@@ -184,7 +184,7 @@ Os dados contêm as seguintes colunas:
 
 - Tanto o rendimento de dividendos quanto os dividendos ajustados por ação aumentaram consistentemente, refletindo a confiança dos investidores na sustentabilidade financeira do McDonald's e seu compromisso em retornar valor aos acionistas.
 
-![img](imagens/15.png)
+![img](img/15.png)
 
 ---
 
@@ -192,7 +192,7 @@ Os dados contêm as seguintes colunas:
 
 - A capitalização de mercado do McDonald's acompanhou de perto as tendências de receita, lucro e ativos totais, sugerindo que o mercado avalia a empresa de forma consistente com seu desempenho financeiro.
 
-![img](imagens/16.png)
+![img](img/16.png)
 
 ---
 
