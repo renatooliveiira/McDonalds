@@ -204,5 +204,5 @@ Os dados contêm as seguintes colunas:
 
 É possível notar que o McDonald's é uma empresa com forte desempenho, marcada por crescimento consistente e uma gestão eficiente de operações. No entanto, as flutuações nos índices de avaliação, como o P/E e o P/B, sugerem que o mercado teve percepções variáveis sobre o futuro da empresa em diferentes períodos. A alavancagem financeira e a dívida devem ser monitoradas para garantir a sustentabilidade a longo prazo. O compromisso da empresa em aumentar os dividendos reflete confiança em sua capacidade de gerar valor contínuo para os acionistas.
 
-Esses insights fornecem uma visão abrangente da saúde financeira da McDonald's e podem servir de base para decisões estratégicas futuras.
+Esses insights fornecem uma visão abrangente da saúde financeira do McDonald's e podem servir de base para decisões estratégicas futuras.
 
